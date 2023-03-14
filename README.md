@@ -1,2 +1,3 @@
-# Programming-Assignment-1
-Programming Languages Week 1 Assignments:  Programming Assignment 1
+Lewis University
+SP23-CPSC-46000-LT1-Programming Languages
+Programming-Assignment-1
