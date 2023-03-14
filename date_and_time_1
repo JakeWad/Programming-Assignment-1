@@ -1,3 +1,5 @@
+"""This module contains functions for performing mathematical operations."""
+
 import datetime
 
 now = datetime.datetime.now()
